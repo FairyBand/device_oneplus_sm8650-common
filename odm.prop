@@ -26,9 +26,7 @@ persist.vendor.radio.mdccbsize=164
 persist.vendor.radio.virtualcomm=1
 persist.vendor.radio.wait_for_pbm=0
 ro.sys.reserve.integrate=true
-ro.vendor.oplus.radio.esim.feature=2
 ro.vendor.oplus.radio.project=1   
-ro.vendor.oplus.radio.sar_regionmark=EUEX
 
 # SVN
 ro.build.version.svn=57
